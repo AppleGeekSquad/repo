@@ -1,11 +1,11 @@
 <package>
 	<id>boostedwifi_1.0</id>
-	<name>El Capitan Loading Indicator</name>
-	<version>1.2.2</version>
+	<name>Boosted Wifi</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-            <maxiOS>11.1.2</maxiOS>
+            		<maxiOS>11.1.2</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
