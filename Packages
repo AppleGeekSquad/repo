@@ -2,7 +2,7 @@ Package: org.bigboss.boostedwifi.deb
 Version: 1.0
 Section: Utilities
 Maintainer: AppleGeekSquad <appletecher03@gmail.com>
-Depends: firmware (>11.0), substitute
+Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/org.bigboss.boostedwifi.deb
 Size: 854
