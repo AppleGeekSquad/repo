@@ -11,6 +11,8 @@
 	</compatibility>
 	<descriptionlist>
         <description>Show all available WiFi access points around you</description>
-		<description>No options to comfigure</description>
     </descriptionlist>
+	<changelog>
+	<change>Initial release</change>
+	</changelog>
 </package>
