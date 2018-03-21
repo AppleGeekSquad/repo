@@ -1,13 +1,13 @@
-Package: boostedwifi_1.0.deb
+Package: org.bigboss.boostedwifi.deb
 Version: 1.0
 Section: Utilities
 Maintainer: AppleGeekSquad <appletecher03@gmail.com>
 Depends: firmware (>11.0), substitute
 Architecture: iphoneos-arm
-Filename: ./debs/boostedwifi_1.0.deb
+Filename: ./debs/org.bigboss.boostedwifi.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Shows all wifi access points around you
 Name: Boosted Wifi
 Author: AppleGeekSquad <appletecher03@gmail>
-Depiction: https://supermamon.github.io/repo/depictions/boostedwifi_1.0
+Depiction: https://supermamon.github.io/repo/depictions/org.bigboss.boostedwifi.deb
