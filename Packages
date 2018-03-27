@@ -5,7 +5,7 @@ Maintainer: AppleGeekSquad <appletecher03@gmail.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/org.bigboss.boostedwifi.deb
-Size: 6
+Size: 5.87
 MD5sum: d474153845ce907fc8a8ca55d419bed0
 Description: Shows all wifi access points around you
 Name: Boosted Wifi
