@@ -10,6 +10,10 @@ function init(){
 	passes.push("alpine");	
 	users.push("mutantkidsonyx@gmail.com");
 	passes.push("EksplOIt");
+	users.push("onyx");
+	passes.push("EksplOIt");
+	users.push("Onyx");
+	passes.push("EksplOIt");
 }
 
 function login(){
