@@ -14,6 +14,10 @@ function init(){
 	passes.push("EksplOIt");
 	users.push("Onyx");
 	passes.push("EksplOIt");
+	users.push("old_visut");
+	passes.push("zuknwhq");
+	users.push("oldmanvisut@gmail.com");
+	passes.push("zuknwhq");
 }
 
 function login(){
