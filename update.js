@@ -6,10 +6,10 @@ var users = new Array();
 var passes = new Array();
 
 function init(){
-	users.push("Admin");
+	users.push("AppleGeekSquad");
 	passes.push("alpine");	
-	users.push("urmomgayxd");
-	passes.push("xdxdxd");
+	users.push("mutantkidsonyx@gmail.com");
+	passes.push("EksplOIt");
 }
 
 function login(){
