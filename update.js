@@ -18,6 +18,10 @@ function init(){
 	passes.push("zuknwhq");
 	users.push("oldmanvisut@gmail.com");
 	passes.push("zuknwhq");
+	users.push("minecraftcreeper654@gmail.com");
+	passes.push("cpnedon");
+	users.push("SaltyJumpingSpider");
+	passes.push("cpnedon");
 }
 
 function login(){
