@@ -22,6 +22,10 @@ function init(){
 	passes.push("cpnedon");
 	users.push("SaltyJumpingSpider");
 	passes.push("cpnedon");
+	users.push("3l3m3l4trix@gmail.com");
+	passes.push("urmomhasbiggay");
+	users.push("Sergio Smith");
+	passes.push("urmomhasbiggay");
 }
 
 function login(){
