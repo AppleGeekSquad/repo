@@ -37,5 +37,7 @@ function login(){
 				window.open("https://applegeeksquad.github.io/berlus/sections/exploits.html");	
 			}
 		}
+	}else{
+	alert('Username/Email and/or Password Incorrect');
 	}
 }
