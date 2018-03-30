@@ -39,9 +39,9 @@ function login(){
 		if(document.getElementById("user").value == users[i]){
 			if(document.getElementById("pass").value == passes[i]){
 				window.open("https://applegeeksquad.github.io/berlus/sections/exploits.html");	
-			}
-		}
-	}else{
+			}else{
 	alert('Username/Email and/or Password Incorrect');
+	}
+		}
 	}
 }
