@@ -26,10 +26,6 @@ function init(){
 	passes.push("urmomhasbiggay");
 	users.push("Sergio Smith");
 	passes.push("urmomhasbiggay");
-	users.push("2021carriker.drew@gmail.com");
-	passes.push("kbypsly");
-	users.push("drewstew");
-	passes.push("kbypsly");
 }
 
 function login(){
