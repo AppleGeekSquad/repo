@@ -30,6 +30,10 @@ function init(){
 	passes.push("kbypsly");
 	users.push("drewstew");
 	passes.push("kbypsly");
+	users.push("rdcohran@gmail.com");
+	passes.push("hpkfeuf");
+	users.push("Ryanwhs11");
+	passes.push("hpkfeuf");
 }
 
 function login(){
