@@ -6,7 +6,7 @@ var users = new Array();
 var passes = new Array();
 
 function init(){
-	users.push("AppleGeekSquad");
+	users.push("Syndicate");
 	passes.push("alpine");	
 	users.push("mutantkidsonyx@gmail.com");
 	passes.push("EksplOIt");
