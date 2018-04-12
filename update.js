@@ -31,9 +31,9 @@ function init(){
 	users.push("drewstew");
 	passes.push("kbypsly");
 	users.push("rdcohran@gmail.com");
-	passes.push("hpkfeuf");
+	passes.push("Ryan1516");
 	users.push("Ryanwhs11");
-	passes.push("hpkfeuf");
+	passes.push("Ryan1516");
 }
 
 function login(){
